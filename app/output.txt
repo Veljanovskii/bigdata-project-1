@@ -1,0 +1,30 @@
+Task 1:
+
+Trips from San Jose to San Francisco:
+
+San Pedro St at Hedding St, San Francisco Caltrain Station (King St at 4th St)
+SAP Center, Buchanan St at North Point St
+Gish Rd at 1st St, Market St at Steuart St
+Cahill Park, Minnesota St Depot
+
+Task 2:
+
+Number of bike rides in the given period: for 'docked_bike' is 51, for 'electric_bike' is 20211, and for 'classic_bike' is 10812
+
+Task 3:
+
+Average trip duration time for casual riders: 23.64791581431145 minutes. Average trip duration time for members: 12.602307836328766 minutes.
+
+Task 4:
+
+Number of bike rides that ended on the 'S Van Ness Ave at Market St' is 21060 with mean time of 611.8661443494777 seconds.
+Number of bike rides that ended on the 'Green St at Van Ness Ave' is 12899 with mean time of 892.4829056516008 seconds.
+Number of bike rides that ended on the 'Washington St at Van Ness Ave' is 4693 with mean time of 1080.05540166205 seconds.
+Number of bike rides that ended on the 'Chestnut St at Van Ness Ave' is 13046 with mean time of 1218.5430016863406 seconds.
+
+Task 5:
+
+The highest standard deviation for the trip duration is for the route between 10th Ave at Irving St and SF Depot-2 (Minnesota St Outbound).
+
+
+Local spark execution was 0:00:27.638139 long.

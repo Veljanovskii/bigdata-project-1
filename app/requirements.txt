@@ -1,0 +1,4 @@
+python-dotenv~=0.21.1
+geopy~=2.3.0
+py4j~=0.10.9.5
+setuptools~=58.2.0
