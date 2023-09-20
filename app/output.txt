@@ -27,4 +27,4 @@ Task 5:
 The highest standard deviation for the trip duration is for the route between 10th Ave at Irving St and SF Depot-2 (Minnesota St Outbound).
 
 
-Local spark execution was 0:00:27.638139 long.
+Local spark execution was 0:00:20.377779 long.

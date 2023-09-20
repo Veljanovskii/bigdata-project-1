@@ -36,9 +36,9 @@ if __name__ == "__main__":
     HDFS_DATA = os.getenv('HDFS_DATA')
 
     # Reading csv file
-    df = spark.read.csv('./baywheels/baywheels.csv', header=True)
+    #df = spark.read.csv('./baywheels/baywheels.csv', header=True)
     #df = spark.read.csv(FILE_DATA, header=True)
-    #df = spark.read.csv(HDFS_DATA, header=True)
+    df = spark.read.csv(HDFS_DATA, header=True)
 
     output = list()
 
